@@ -1,15 +1,9 @@
 .env
 secrets.conf
-*.tmp
 *.swp
-printer-[0-9]*_[0-9]*.cfg
 *.tmp
-klipper.config.rp2040.bak
 printer-[0-9]*_[0-9]*.cfg
 klipper.config.rp2040.bak
 *.bkp
-*.bkp
 *.csv
-*.csv
-*.zip
 *.zip
